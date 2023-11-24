@@ -1,3 +1,7 @@
+def my_superfunction():
+    print('What an awesome print!')
+
+
 def main():
     print('My first git-repo')
     print('Toady I upgrade this project with function')
